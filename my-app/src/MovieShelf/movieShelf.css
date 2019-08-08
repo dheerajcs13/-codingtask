@@ -1,0 +1,25 @@
+.movieShelf{
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.movieTile{
+  display: flex;
+  flex-direction: column;
+  height: 40vh;
+  width: 20vw;
+  margin: 2rem;
+  cursor: pointer;
+}
+
+.movieTile :hover {
+  width: 22vw;
+}
+
+.tileImage{
+  height: 80%;
+}
+
+.movieTrailer{
+  width: 100%;
+}

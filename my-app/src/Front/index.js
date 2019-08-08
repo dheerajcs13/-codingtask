@@ -4,7 +4,7 @@ import './front.css';
 
 class ForntPage extends React.PureComponent {
   state = {
-    view: 'inputBox',
+    view: 'trailer',
   }
 
   handleTiles = (value) => () => {

@@ -1,5 +1,5 @@
 import RangeInput from '../RangeInput';
-import Trailer from '../Trailer';
+import Trailer from '../MovieShelf';
 
 const VIEW_MODE = {
   INPUT_BOX: 'inputBox',
