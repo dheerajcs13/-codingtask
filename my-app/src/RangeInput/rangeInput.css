@@ -1,0 +1,11 @@
+.output{
+  display: flex;
+}
+
+.duplicate {
+  color: red;
+}
+
+.added {
+  color: green;
+}

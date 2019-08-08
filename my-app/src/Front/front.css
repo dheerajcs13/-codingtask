@@ -1,0 +1,8 @@
+.tiles{
+  padding: 2rem;
+  text-decoration: underline;
+}
+
+.active {
+  color: yellow;
+}
